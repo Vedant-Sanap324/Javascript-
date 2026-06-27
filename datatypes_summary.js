@@ -15,3 +15,5 @@ const myfuction = function()
 { console.log('hello world')}
 
 myfuction() // hello world
+
+//null ka datatype hmesha object hota h
