@@ -5,3 +5,13 @@
 const id = Symbol('123')
 const anotherid = Symbol('123')
 console.log(id === anotherid) // false
+
+const heros = ['thor', 'spiderman', 'ironman'];
+let object = {
+    name: 'vedant',
+    age: 20,
+}
+const myfuction = function()
+{ console.log('hello world')}
+
+myfuction() // hello world
