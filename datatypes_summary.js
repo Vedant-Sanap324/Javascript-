@@ -14,6 +14,6 @@ let object = {
 const myfuction = function()
 { console.log('hello world')}
 
-myfuction() // hello world
+myfuction() // hello world-->function call 
 
 //null ka datatype hmesha object hota h
