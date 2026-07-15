@@ -7,3 +7,12 @@
 console.log(a)
 //scopes ko 2 type mein dekhe to block scope aur global scope hota hai 
 //global saare yha use hoga pr block scope sirf uske andar hi use hoga
+
+//nested scopes:
+if (true){
+    const username="vedant"
+    if (username==="vedant"){
+        const secondname=" sanap"
+        console.log(username+secondname)
+    }
+}
